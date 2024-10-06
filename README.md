@@ -30,7 +30,3 @@ is a C-based project designed to perform various operations on strings. The proj
     - **5**: Apply Caesar cipher with a shift value
     - **6**: Compare two strings for equality
     - **7**: Count words in a string
-
----
-
-This description gives a clear overview of your project, lists the features, and explains how to use it.
